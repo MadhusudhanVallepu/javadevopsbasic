@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Akhil
+  vmImage: ubantu-latest
 
 steps:
 - task: Maven@3
